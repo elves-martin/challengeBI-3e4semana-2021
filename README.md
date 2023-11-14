@@ -1,7 +1,7 @@
 **<h1>Challenge de BI - 3ª e 4ª Semana - Alura</h1>**
 <br>
 <h2>Dashboard Financeiro</h2>
-<p>A pessoa que gerencia o financeiro da Alura Store disponibilizou para a gente o banco de dados do financeiro, para fazermos nossas análises e verificarmos quais os lucros e os gastos da empresa e ajudá-los a tomarem decisões com base nas análises.</p>
+<p>A pessoa que gerencia o financeiro da Alura Store disponibilizou para a gente o banco de dados do financeiro, para fazermos nossas análises e verificarmos quais os lucros e os gastos da empresa e ajudá-los a tomarem decisões com base nas análises. teste</p>
 <br>
 <h2>Base de Dados</h2>
 <p>A base de dados consiste em um banco de dados no MySQL com a seguinte estrutura:</p>
